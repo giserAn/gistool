@@ -1,0 +1,22 @@
+{
+  "name": "@angiser/gistool",
+  "version": "1.0.5",
+  "description": "A collection of GIS tools for common operations",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "angiser",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.0",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "rollup": "^4.40.1"
+  }
+}
