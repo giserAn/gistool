@@ -12,6 +12,7 @@
   "keywords": [],
   "author": "angiser",
   "license": "MIT",
+  "repository": "https://github.com/giserAn/gistool.git",
   "devDependencies": {
     "@babel/preset-env": "^7.24.0",
     "@rollup/plugin-babel": "^6.0.4",
